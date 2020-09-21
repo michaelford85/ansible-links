@@ -38,6 +38,14 @@ Ansible Bookmarks.
 - [Ansible Service Now example](https://github.com/nleiva/ansible-snow)
 - [Galaxy - Service Now](https://galaxy.ansible.com/servicenow/servicenow)
 
+## DevOps
+- [Ansible Tower Jenkins Plugin](https://plugins.jenkins.io/ansible-tower/)
+- [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/)
+- [Ansible 2.10 Jenkins Modules](https://docs.ansible.com/ansible/2.10/collections/community/general/index.html#module-plugins)
+- [Ansible CI/CD Workshop Provisioner](https://github.com/RHMTT/workshops/tree/cicd/provisioner)
+- [Ansible CI/CD Workshop Documentation](https://p-avery.github.io/ansible-workshops/exercises/ansible_cicd/)
+- [Ansible CI/CD Workshop Deck](https://p-avery.github.io/ansible-workshops/decks/ansible_cicd.pdf)
+
 ## Callback Modules
 - [Reference for Ansible Callback Modules](https://github.com/sean-m-sullivan/callback_modules/blob/master/research.md)
 
