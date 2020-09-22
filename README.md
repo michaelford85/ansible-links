@@ -42,6 +42,7 @@ Ansible Bookmarks.
 - [Ansible Tower Jenkins Plugin](https://plugins.jenkins.io/ansible-tower/)
 - [Blue Ocean for Jenkins Pipelines](https://www.jenkins.io/projects/blueocean/)
 - [Ansible 2.10 Jenkins Modules](https://docs.ansible.com/ansible/2.10/collections/community/general/index.html#module-plugins)
+- [Can Bitbucket pipeline to Ansible Tower?](https://community.atlassian.com/t5/Bitbucket-questions/Can-Bitbucket-pipeline-to-Ansible-Tower/qaq-p/914765)
 - [Ansible CI/CD Workshop Provisioner](https://github.com/RHMTT/workshops/tree/cicd/provisioner)
 - [Ansible CI/CD Workshop Documentation](https://p-avery.github.io/ansible-workshops/exercises/ansible_cicd/)
 - [Ansible CI/CD Workshop Deck](https://p-avery.github.io/ansible-workshops/decks/ansible_cicd.pdf)
